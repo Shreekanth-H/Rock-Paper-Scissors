@@ -8,3 +8,5 @@ increments the winner's score and console logs the winner.
 
 added function playGame that calls playRound 5 times and delcares the final winner by checking the score.
 
+added UI to game instead of doing in console.
+
